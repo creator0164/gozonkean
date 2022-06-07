@@ -1,0 +1,9 @@
+Search for django
+    1. simple is better than complex
+    2. coding for entrepreneurs
+
+    Cool thing that I knew is pagination
+        load a request or messages or posts
+
+django rest framework
+    link: github django-rest-framework
